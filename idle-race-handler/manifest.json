@@ -1,0 +1,13 @@
+{
+    "name": "Idle Race Handler",
+    "author": "Michael Niggel",
+    "author_uri": "https://hazardcreative.com",
+    "description": "Stops, saves, or restarts a race when no passes have arrived in [x] seconds",
+    "info_uri": "https://github.com/HazardCreative/RotorHazard-Idle-Race_Handler",
+    "license": "RotorHazard",
+    "license_uri": "https://github.com/RotorHazard/RotorHazard/blob/main/LICENSE",
+    "version": "1.0.1",
+    "required_rhapi_version": "1.0",
+    "update_uri": null,
+    "text_domain": null
+}
