@@ -5,9 +5,7 @@ Stops, saves, or restarts a race when no passes have arrived in [x] seconds
 
 ## Installation
 
-Copy the `idle_race_handler` plugin into the `src/server/plugins` directory in your RotorHazard install. Start RotorHazard.
-
-If installation is successful, the RotorHazard log will contain the message `Loaded plugin module idle_race_handler` at startup.
+Install through the "Community Plugins" area within RotorHazard. Alternately, copy the `idle_race_handler` directory from inside `custom_plugins` into the plugins directory of your RotorHazard data directory.
 
 ## Usage
 
